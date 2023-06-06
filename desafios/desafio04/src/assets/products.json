@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "control",
+		"description": "producto1",
+		"price": 400,
+		"thumbnail": "ruta",
+		"code": 1054,
+		"stock": 5
+	},
+	{
+		"id": 2,
+		"title": "celular",
+		"description": "producto2",
+		"price": 700,
+		"thumbnail": "ruta",
+		"code": 1055,
+		"stock": 6
+	},
+	{
+		"id": 3,
+		"title": "tv",
+		"description": "producto3",
+		"price": 700,
+		"thumbnail": "ruta",
+		"code": 1055,
+		"stock": 6
+	},
+	{
+		"id": 4,
+		"title": "control5",
+		"description": "producto4",
+		"price": 500,
+		"thumbnail": "ruta1",
+		"code": 1052,
+		"stock": 3
+	}
+]
