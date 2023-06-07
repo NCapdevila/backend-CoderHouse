@@ -1,26 +1,17 @@
 [
 	{
 		"id": 1,
-		"title": "control",
-		"description": "producto1",
-		"price": 400,
-		"thumbnail": "ruta",
-		"code": 1054,
+		"title": "mesa",
+		"description": "KZ ZST PRO",
+		"price": 14000,
+		"thumbnail": "ruta de las imagenes",
+		"code": 5313,
 		"stock": 5
 	},
 	{
 		"id": 2,
 		"title": "celular",
 		"description": "producto2",
-		"price": 700,
-		"thumbnail": "ruta",
-		"code": 1055,
-		"stock": 6
-	},
-	{
-		"id": 3,
-		"title": "tv",
-		"description": "producto3",
 		"price": 700,
 		"thumbnail": "ruta",
 		"code": 1055,
@@ -34,5 +25,34 @@
 		"thumbnail": "ruta1",
 		"code": 1052,
 		"stock": 3
+	},
+	{
+		"id": 5,
+		"title": "control7",
+		"description": "producto4",
+		"price": 500,
+		"status": true,
+		"thumbnail": "ruta1",
+		"code": 1052,
+		"stock": 3
+	},
+	{
+		"id": 6,
+		"title": "Auricular",
+		"description": "KZ ZST PRO",
+		"price": 14000,
+		"status": true,
+		"thumbnail": "ruta de las imagenes",
+		"code": 5313,
+		"stock": 5
+	},
+	{
+		"id": 7,
+		"title": "mesa",
+		"description": "KZ ZST PRO",
+		"code": 14000,
+		"status": "ruta de las imagenes",
+		"stock": 5313,
+		"category": 5
 	}
 ]
